@@ -1,1 +1,1 @@
-au BufRead,BufNewFile *.vm set ft=velocity syntax=velocity
+au BufRead,BufNewFile *.vm,*.vtl set ft=velocity syntax=velocity
